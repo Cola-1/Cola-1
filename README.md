@@ -92,20 +92,24 @@ Building intelligent systems that see, reason, and work in the real world.
 
 ## 📊 GitHub Analytics
 
-<!-- Activity Graph -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"
-                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Cola-1&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)"
-                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Cola-1&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cola-1&theme=tokyo-night" />
-      </picture>
-    </td>
-  </tr>
-</table>
+
+<!-- metrics -->
+<img src="/github-metrics.svg" />
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=Cola-1&show_icons=true&rank_icon=github&cache_seconds=1800" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cola-1&layout=compact&cache_seconds=1800" />
+</p>
+
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://streak-stats.demolab.com/?user=Cola-1&theme=light&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Cola-1&theme=dark&hide_border=true" />
+</picture>
 
 <!-- Tech Stack -->
 <p align="center">
