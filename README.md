@@ -1,84 +1,101 @@
-<!-- GitHub Profile README for Cola-1 -->
+<div align="center">
 
-<h1 align="center">Hi, I'm Yangle Liu 👋</h1>
-<p align="center">
-  BSc Computer Science · Machine Learning · Computer Vision · 3D Perception
+  <!-- knock code pictures -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg"
+            height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+  <!-- spacing -->
+  <div>&nbsp;</div>
+
+  <!-- profile badges -->
+  <div>
+    <a href="https://yangleliu.github.io/">
+      <img src="https://img.shields.io/badge/Website-Homepage-8c36db" />
+    </a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=Cola-1&label=Views&color=orange&style=flat" />
+  </div>
+
+  <!-- Snake Contribution Map -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Cola-1/Cola-1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Cola-1/Cola-1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation"
+         src="https://raw.githubusercontent.com/Cola-1/Cola-1/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
+
+# 🙋 Hello
+
+<table>
+
+<tr><td>
+
+### 🤺 About Me
+
+<img align="right" width="88"
+     src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+
+<p>&emsp;&emsp;Hi, I'm <strong>Yangle Liu</strong>, a Computer Science undergraduate with strong interests in machine learning, computer vision, and 3D perception.</p>
+
+<p>&emsp;&emsp;My work focuses on building <strong>intelligent systems that integrate perception, learning, and engineering</strong>, rather than isolated models or demos.</p>
+
+<p>&emsp;&emsp;I am particularly interested in 3D / 4D reconstruction, ML systems, and LLM-enhanced reasoning for real-world data.</p>
+
+<p>&emsp;&emsp;Personal website:
+<a href="https://yangleliu.github.io/" target="_blank">yangleliu.github.io</a>
 </p>
 
-<p align="center">
-  <a href="https://yangleliu.github.io/">Homepage</a> ·
-  <a href="https://github.com/Cola-1">GitHub</a> ·
-  <a href="https://scholar.google.com/">Google Scholar</a>
+<p>&emsp;&emsp;
+<strong>
+Building intelligent systems that see, reason, and work in the real world.
+</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Research-3D%20Vision%20%7C%204D%20Reconstruction-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-ML%20Systems%20%7C%20LLMs%20%7C%20Forecasting-5865F2?style=flat-square" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Cola-1.Cola-1&left_color=green&right_color=red" />
-</p>
+<div>&nbsp;</div>
+
+</td></tr>
+
+<tr><td>
+
+## 🏢 Experience
+
+<img align="right" width="200"
+     src="https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_New_York_City.svg" />
+
+- **Machine Learning Intern**, Neurova (New York) &emsp; 📌 Jun 2025 — Aug 2025  
+  - Worked on ML-driven data modeling and system optimization  
+  - Focused on deployable and interpretable AI pipelines  
+
+<img align="right" width="200"
+     src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Suzhou.svg" />
+
+- **Software Development Intern**, AUO Digitech (Suzhou) &emsp; 📌 Jun 2024 — Aug 2024  
+  - Developed core business modules on a low-code enterprise platform  
+  - Built dashboards and automated data integration pipelines  
+
+<div>&nbsp;</div>
+
+</td></tr>
+
+</table>
 
 ---
 
-## About Me
-I am a computer science undergraduate with a strong interest in **building intelligent systems that integrate perception, learning, and engineering**.
+## 📊 GitHub Analytics
 
-My work spans:
-- **3D / 4D Computer Vision & Graphics**: 3DGS / 4DGS, dynamic scene reconstruction, geometry-aware learning  
-- **Machine Learning Systems**: data-driven forecasting, structured representation learning, evaluation pipelines  
-- **LLM-enhanced AI**: integrating large language models into perception and time-series tasks for improved reasoning and interpretability  
+<!-- metrics -->
+<img src="/github-metrics.svg" />
 
-I care deeply about whether a system is **robust, efficient, and deployable**, not just whether it performs well in isolated experiments.
-
----
-
-
-
-## Experience
-- **Machine Learning Intern**, Neurova (New York) · Jun 2025 – Aug 2025  
-- **Software Development Intern**, AUO Digitech (Suzhou) · Jun 2024 – Aug 2024  
-
----
-
-## Education
-- **University of Liverpool (UK)**  
-  BSc Computer Science · Sep 2024 – Present  
-
-- **Xi’an Jiaotong–Liverpool University (Suzhou, China)**  
-  Undergraduate Studies · Sep 2022 – Jun 2024  
-
----
-
-## Honors & Awards
-- RoboMaster Super Competition — Regional First Prize, National Second Prize  
-- National College Student Information System Innovation Competition — Outstanding Award  
-- XJTLU Campus Ambassador — Pioneer Award  
-
----
-
-## GitHub Analytics
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cola-1&show_icons=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cola-1&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cola-1&row=1&column=7" />
-</p>
-
----
-
-## Metrics (Auto-updated via GitHub Actions)
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
----
-
-
-## GitHub Analytics
-
-## GitHub Analytics
-
+<!-- GitHub Stats -->
 <p align="center">
   <img height="165"
        src="https://github-readme-stats.vercel.app/api?username=Cola-1&show_icons=true&rank_icon=github&cache_seconds=1800" />
@@ -86,10 +103,29 @@ I care deeply about whether a system is **robust, efficient, and deployable**, n
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cola-1&layout=compact&cache_seconds=1800" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cola-1&theme=flat&row=1&column=6&margin-w=10" />
-</p>
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://streak-stats.demolab.com/?user=Cola-1&theme=light&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Cola-1&theme=dark&hide_border=true" />
+</picture>
 
+<!-- Activity Graph -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Cola-1&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)"
+                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Cola-1&theme=xcode" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cola-1&theme=tokyo-night" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<!-- Tech Stack -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -97,11 +133,4 @@ I care deeply about whether a system is **robust, efficient, and deployable**, n
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-</p>
-
-![visitors](https://komarev.com/ghpvc/?username=Cola-1&style=flat-square&color=green)
-
-
-<p align="center">
-  <i>Building intelligent systems that see, reason, and work in the real world.</i>
 </p>
