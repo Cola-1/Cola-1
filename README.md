@@ -118,7 +118,18 @@ This project shaped my system-level thinking by connecting backend design, real-
 
 ---
 
-## Tech Stack
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cola-1&show_icons=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cola-1&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cola-1&row=1&column=7" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -127,6 +138,9 @@ This project shaped my system-level thinking by connecting backend design, real-
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
 </p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Cola-1.Cola-1&left_color=green&right_color=red)
+
 
 <p align="center">
   <i>Building intelligent systems that see, reason, and work in the real world.</i>
