@@ -68,15 +68,13 @@ Building intelligent systems that see, reason, and work in the real world.
 
 ## 🏢 Experience
 
-<img align="right" width="200"
-     src="https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_New_York_City.svg" />
+
 
 - **Machine Learning Intern**, Neurova (New York) &emsp; 📌 Jun 2025 — Aug 2025  
   - Worked on ML-driven data modeling and system optimization  
   - Focused on deployable and interpretable AI pipelines  
 
-<img align="right" width="200"
-     src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Suzhou.svg" />
+
 
 - **Software Development Intern**, AUO Digitech (Suzhou) &emsp; 📌 Jun 2024 — Aug 2024  
   - Developed core business modules on a low-code enterprise platform  
