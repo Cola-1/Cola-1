@@ -95,12 +95,7 @@ Building intelligent systems that see, reason, and work in the real world.
 <img src="/github-metrics.svg" />
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=Cola-1&show_icons=true&rank_icon=github&cache_seconds=1800" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cola-1&layout=compact&cache_seconds=1800" />
-</p>
+
 
 <!-- Streak Stats -->
 <picture>
