@@ -88,26 +88,16 @@ Building intelligent systems that see, reason, and work in the real world.
 
 ---
 
-## 📊 GitHub Analytics
-
-
-<!-- metrics -->
-<img src="/github-metrics.svg" />
-
-<!-- GitHub Stats -->
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=Cola-1&show_icons=true&rank_icon=github&cache_seconds=1800" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cola-1&layout=compact&cache_seconds=1800" />
+  <picture>
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://streak-stats.demolab.com/?user=Cola-1&theme=light&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=Cola-1&theme=dark&hide_border=true" />
+  </picture>
 </p>
-<!-- Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://streak-stats.demolab.com/?user=Cola-1&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=Cola-1&theme=dark&hide_border=true" />
-</picture>
+
 
 <!-- Tech Stack -->
 <p align="center">
