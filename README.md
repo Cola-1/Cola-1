@@ -21,15 +21,7 @@
     <img src="https://komarev.com/ghpvc/?username=Cola-1&label=Views&color=orange&style=flat" />
   </div>
 
-  <!-- Snake Contribution Map -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/Cola-1/Cola-1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/Cola-1/Cola-1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation"
-         src="https://raw.githubusercontent.com/Cola-1/Cola-1/output/github-contribution-grid-snake.svg">
-  </picture>
+  
 
 </div>
 
@@ -108,3 +100,19 @@ Building intelligent systems that see, reason, and work in the real world.
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Cola-1/Cola-1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Cola-1/Cola-1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation"
+         src="https://raw.githubusercontent.com/Cola-1/Cola-1/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
