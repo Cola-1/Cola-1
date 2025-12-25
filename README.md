@@ -121,13 +121,17 @@ This project shaped my system-level thinking by connecting backend design, real-
 
 ## GitHub Analytics
 
+## GitHub Analytics
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cola-1&show_icons=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cola-1&layout=compact" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=Cola-1&show_icons=true&rank_icon=github&cache_seconds=1800" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cola-1&layout=compact&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cola-1&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Cola-1&theme=flat&row=1&column=6&margin-w=10" />
 </p>
 
 <p align="center">
@@ -139,7 +143,7 @@ This project shaped my system-level thinking by connecting backend design, real-
   <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Cola-1.Cola-1&left_color=green&right_color=red)
+![visitors](https://komarev.com/ghpvc/?username=Cola-1&style=flat-square&color=green)
 
 
 <p align="center">
