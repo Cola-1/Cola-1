@@ -31,50 +31,7 @@ I care deeply about whether a system is **robust, efficient, and deployable**, n
 
 ---
 
-## News
-- **Aug 2025**: Co-authored paper accepted for **Oral Presentation** at *IEEE BDAI 2025*  
-- **Nov 2024**: First collaborative research paper accepted at *ICSTIS 2024*
 
----
-
-## Selected Research & Projects
-
-### Endo-G²T — Geometry-guided 4D Gaussian Splatting
-- **Keywords**: 4DGS · temporally consistent reconstruction · geometry-aware training  
-- **Summary**: A training framework for high-fidelity dynamic reconstruction in endoscopic scenes, emphasizing temporal coherence and geometric constraints  
-- Links:
-  - Paper: https://arxiv.org/
-  - Code: https://github.com/Cola-1
-
----
-
-### SEED — LLM-Enhanced Time Series Forecasting
-- **Keywords**: multivariate forecasting · structural encoding · LLM-assisted decoding  
-- **Summary**: A forecasting framework that combines structured temporal representations with the reasoning capability of large language models  
-- Links:
-  - Paper: https://arxiv.org/
-  - Code: https://github.com/Cola-1
-
----
-
-### Synthetic Dataset Generation for Underground Parking Scenes
-- **Keywords**: simulation · Blender · synthetic data · autonomous perception  
-- **Summary**: Automated generation of annotated underground parking datasets using Blender to reduce real-world data collection and labeling costs  
-- Code: https://github.com/Cola-1
-
----
-
-## Engineering-Oriented Projects
-
-### AIHire — Intelligent Recruitment Platform
-- Designed backend architecture using **Spring Boot** with clear relational modeling of jobs, applicants, and applications  
-- Improved high-frequency data access using **Redis**  
-- Enabled real-time interaction between HR and applicants via **WebSocket**  
-- Led development of AI services using **LLMs** for resume enhancement, skill extraction, and vector-based matching  
-
-This project shaped my system-level thinking by connecting backend design, real-time communication, and AI services into a single deployable pipeline.
-
----
 
 ## Experience
 - **Machine Learning Intern**, Neurova (New York) · Jun 2025 – Aug 2025  
@@ -94,7 +51,6 @@ This project shaped my system-level thinking by connecting backend design, real-
 ## Honors & Awards
 - RoboMaster Super Competition — Regional First Prize, National Second Prize  
 - National College Student Information System Innovation Competition — Outstanding Award  
-- Technology Innovation Association — 3D Modeling Project Lead  
 - XJTLU Campus Ambassador — Pioneer Award  
 
 ---
