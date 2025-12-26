@@ -66,10 +66,10 @@
 
 
 
-## 🏢 Experience 
+
 ## 🏢 Experience
 
-<img align="right" width="72"
+<img align="right" width="100"
      style="margin-left: 16px;"
      src="asset/Neurova.jpg" />
 
@@ -77,7 +77,7 @@
 
 <br/>
 
-<img align="right" width="72"
+<img align="right" width="100"
      style="margin-left: 16px;"
      src="asset/AUO.png" />
 
