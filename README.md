@@ -73,7 +73,7 @@
      style="margin-left: 16px;"
      src="asset/Neurova.jpg" />
 
-- <strong style="font-size: 1.15em;">Neurova (New York)</strong><br/>             📌 Jun 2025 — Aug 2025
+- <strong style="font-size: 1.15em;">Neurova (New York)</strong>        📌 Jun 2025 — Aug 2025<br/>             📌 Jun 2025 — Aug 2025
   <em>Machine Learning Intern</em><br/>
   
 <br/>
