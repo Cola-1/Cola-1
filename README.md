@@ -33,57 +33,77 @@
 
 ### 🤺 About Me
 
-<table>
-<tr>
-<td width="85%" valign="top">
+<img align="right" width="88"
+     src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>
-Hi, I'm <strong>Yangle Liu</strong>, a Computer Science undergraduate with strong interests in
-<strong>machine learning, computer vision, and 3D perception</strong>.
+<p>&emsp;&emsp;
+  Hi, I'm <strong>Yangle Liu</strong>, a Computer Science undergraduate with strong interests in
+  machine learning, computer vision, and 3D perception.
 </p>
 
-<p>
-My work focuses on <strong>3D / 4D reconstruction, ML systems, and LLM-enhanced reasoning</strong>
-for real-world data.
+<p>&emsp;&emsp;
+  My work focuses on <strong>3D / 4D reconstruction, ML systems, and LLM-enhanced reasoning</strong>
+  for real-world data.
 </p>
 
-<p>
-Personal website:
-<a href="https://yangleliu.github.io/" target="_blank">yangleliu.github.io</a>
+<p>&emsp;&emsp;
+  Personal website:
+  <a href="https://yangleliu.github.io/" target="_blank">yangleliu.github.io</a>
 </p>
 
-<p>
-<strong>Building intelligent systems that see, reason, and work in the real world.</strong>
+<p>&emsp;&emsp;
+  <strong>
+    Building intelligent systems that see, reason, and work in the real world.
+  </strong>
 </p>
 
-</td>
+<div>&nbsp;</div>
 
-<td width="15%" align="right">
-<img src="https://avatars.githubusercontent.com/u/45090349?v=4" width="96" />
-</td>
+</td></tr>
+<tr><td>
 
-</tr>
-</table>
 
 ## 🏢 Experience
 
 
 
-- **Machine Learning Intern**, Neurova (New York) &emsp; 📌 Jun 2025 — Aug 2025  
-  - Worked on ML-driven data modeling and system optimization  
-  - Focused on deployable and interpretable AI pipelines  
+## 🏢 Experience
 
+<table width="100%">
+<tr>
+<td width="85%" valign="top">
 
+<strong>Machine Learning Intern</strong>, Neurova (New York)  
+📌 Jun 2025 — Aug 2025
 
-- **Software Development Intern**, AUO Digitech (Suzhou) &emsp; 📌 Jun 2024 — Aug 2024  
-  - Developed core business modules on a low-code enterprise platform  
-  - Built dashboards and automated data integration pipelines  
+</td>
+<td width="15%" align="right">
+<img src="NEUROVA_LOGO_URL" width="60" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="85%" valign="top">
+
+<strong>Software Development Intern</strong>, AUO Digitech (Suzhou)  
+📌 Jun 2024 — Aug 2024
+
+</td>
+<td width="15%" align="right">
+<img src="AUO_LOGO_URL" width="60" />
+</td>
+</tr>
+</table>
 
 <div>&nbsp;</div>
 
 </td></tr>
-
 </table>
+
 
 ---
 
