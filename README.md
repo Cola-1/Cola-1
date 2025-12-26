@@ -68,18 +68,17 @@
 
 ## 🏢 Experience 
 <img align="right" width="200"
-     src="https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_New_York_City.svg" />
+     src="asset/Neurova.jpg" />
 
 - **Machine Learning Intern**, Neurova (New York) &emsp; 📌 Jun 2025 — Aug 2025  
-  - Worked on ML-driven data modeling and system optimization  
-  - Focused on deployable and interpretable AI pipelines  
+
+  
 
 <img align="right" width="200"
-     src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Suzhou.svg" />
+     src="asset/AUO.png" />
 
 - **Software Development Intern**, AUO Digitech (Suzhou) &emsp; 📌 Jun 2024 — Aug 2024  
-  - Developed core business modules on a low-code enterprise platform  
-  - Built dashboards and automated data integration pipelines  
+ 
 
 <div>&nbsp;</div>
 
