@@ -73,18 +73,19 @@
      style="margin-left: 16px;"
      src="asset/Neurova.jpg" />
 
-- **Neurova (New York)** 
--  Machine Learning Intern
--  📌 Jun 2025 — Aug 2025
+- <strong style="font-size: 1.15em;">Neurova (New York)</strong><br/>
+  <em>Machine Learning Intern</em><br/>
+  📌 Jun 2025 — Aug 2025
 <br/>
 
 <img align="right" width="72"
      style="margin-left: 16px;"
      src="asset/AUO.png" />
 
-- **AUO Digitech (Suzhou)**
-- Software Development Intern
-- 📌 Jun 2024 — Aug 2024
+- <strong style="font-size: 1.15em;">AUO Digitech (Suzhou)</strong><br/>
+  <em>Software Development Intern</em><br/>
+  📌 Jun 2024 — Aug 2024
+
 <div>&nbsp;</div>
 
 </td></tr>
