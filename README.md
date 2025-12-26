@@ -33,7 +33,7 @@
 
 ### 🤺 About Me 
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" /> <p>&emsp;&emsp;Hi, I'm <strong>Yangle Liu</strong>, a Computer Science undergraduate with strong interests in machine learning, computer vision, and 3D perception.</p> <p>&emsp;&emsp;My work focuses on building <strong>intelligent systems that integrate perception, learning, and engineering</strong>, rather than isolated models or demos.</p> <p>&emsp;&emsp;I am particularly interested in 3D / 4D reconstruction, ML systems, and LLM-enhanced reasoning for real-world data.</p> <p>&emsp;&emsp;Personal website: <a href="https://yangleliu.github.io/" target="_blank">yangleliu.github.io</a> </p> <p>&emsp;&emsp; <strong> Building intelligent systems that see, reason, and work in the real world. </strong> </p> <div>&nbsp;</div> </td></tr> <tr><td>
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" /> <p>&emsp;&emsp;Hi, I'm <strong>Yangle Liu</strong>, a Computer Science undergraduate with strong interests in machine learning, computer vision, and 3D perception.</p> <p>&emsp;&emsp;My work focuses on building 3D / 4D reconstruction, ML systems, and LLM-enhanced reasoning for real-world data.</p>  <p>&emsp;&emsp;Personal website: <a href="https://yangleliu.github.io/" target="_blank">yangleliu.github.io</a> </p> <p>&emsp;&emsp; <strong> Building intelligent systems that see, reason, and work in the real world. </strong> </p> <div>&nbsp;</div> </td></tr> <tr><td>
 ## 🏢 Experience
 
 
