@@ -68,7 +68,7 @@
 
 ## 🏢 Experience
 
-<table width="100%">
+<table>
   <tr>
     <td width="60px" align="center">
       <img src="assets/neurova_logo.png" width="40" alt="Neurova"/>
@@ -87,8 +87,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
 
 
 ---
