@@ -77,7 +77,7 @@
 
 <br/>
 
-<img align="right" width="100"
+<img align="right" width="72"
      style="margin-left: 16px;"
      src="asset/AUO.png" />
 
