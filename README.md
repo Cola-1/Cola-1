@@ -69,7 +69,7 @@
 
 ## 🏢 Experience
 
-<img align="right" width="150"
+<img align="right" width="100"
      style="margin-left: 16px;"
      src="asset/Neurova.jpg" />
 
@@ -78,7 +78,7 @@
   
 <br/>
 
-<img align="right" width="100"
+<img align="right" width="90"
      style="margin-left: 16px;"
      src="asset/AUO.png" />
 
