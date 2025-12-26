@@ -66,27 +66,8 @@
 
 
 
-## 🏢 Experience
-
-<table>
-  <tr>
-    <td width="60px" align="center">
-      <img src="assets/neurova_logo.png" width="40" alt="Neurova"/>
-    </td>
-    <td>
-      <strong>Machine Learning Intern</strong>, Neurova (New York) &emsp; 📌 Jun 2025 — Aug 2025
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="60px" align="center">
-      <img src="assets/auo_logo.png" width="40" alt="AUO"/>
-    </td>
-    <td>
-      <strong>Software Development Intern</strong>, AUO Digitech (Suzhou) &emsp; 📌 Jun 2024 — Aug 2024
-    </td>
-  </tr>
-</table>
+## 🏢 Experience 
+- **Machine Learning Intern**, Neurova (New York) &emsp; 📌 Jun 2025 — Aug 2025 - **Software Development Intern**, AUO Digitech (Suzhou) &emsp; 📌 Jun 2024 — Aug 2024 <div>&nbsp;</div> </td></tr> </table>>
 
 
 ---
