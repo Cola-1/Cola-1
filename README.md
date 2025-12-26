@@ -114,9 +114,7 @@
   <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
 </p>
 
----
 
-## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
