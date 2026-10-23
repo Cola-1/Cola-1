@@ -38,12 +38,11 @@
 
 <p>&emsp;&emsp;
   Hi, I'm <strong>Yangle Liu</strong>, a Computer Science undergraduate with strong interests in
-  machine learning, computer vision, and 3D perception.
+  computer vision, and 3D perception.
 </p>
 
 <p>&emsp;&emsp;
-  My work focuses on <strong>3D / 4D reconstruction, ML systems, and LLM-enhanced reasoning</strong>
-  for real-world data.
+  My work focuses on <strong>3D / 4D reconstruction for real-world data.
 </p>
 
 <p>&emsp;&emsp;
@@ -53,7 +52,7 @@
 
 <p>&emsp;&emsp;
   <strong>
-    Building intelligent systems that see, reason, and work in the real world.
+    Building systems that see, reason, and work in the real world.
   </strong>
 </p>
 
@@ -74,7 +73,7 @@
      src="asset/Neurova.jpg" />
 
 - <strong style="font-size: 1.15em;">Neurova (New York)</strong>        📌 Jun 2025 — Aug 2025<br/>           
-  <em>Machine Learning Intern</em><br/>
+  <em>Software Development Intern</em><br/>
   
 <br/>
 
