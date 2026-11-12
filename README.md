@@ -65,25 +65,24 @@
 
 
 
-
+<!--
 ## 🏢 Experience
 
 <img align="right" width="100"
      style="margin-left: 16px;"
      src="asset/Neurova.jpg" />
 
-- <strong style="font-size: 1.15em;">Neurova (New York)</strong>        📌 Jun 2025 — Aug 2025<br/>           
+- <strong style="font-size: 1.15em;">Neurova (New York)</strong> 📌 Jun 2025 — Aug 2025<br/>
   <em>Software Development Intern</em><br/>
-  
+
 <br/>
 
 <img align="right" width="90"
      style="margin-left: 16px;"
      src="asset/AUO.png" />
 
-- <strong style="font-size: 1.15em;">AUO Digitech (Suzhou)</strong>  📌 Jun 2024 — Aug 2024<br/>          
+- <strong style="font-size: 1.15em;">AUO Digitech (Suzhou)</strong> 📌 Jun 2024 — Aug 2024<br/>
   <em>Software Development Intern</em><br/>
-  
 
 <div>&nbsp;</div>
 
@@ -91,7 +90,7 @@
 </table>
 
 ---
-
+-->
 ## 📊 GitHub Activity
 
 <p align="center">
