@@ -37,12 +37,9 @@
      src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
 <p>&emsp;&emsp;
-  Hi, I'm <strong>Yangle Liu</strong>, a Computer Science undergraduate with strong interests in
-  computer vision, and 3D perception.
-</p>
-
-<p>&emsp;&emsp;
-  My work focuses on <strong>3D / 4D reconstruction for real-world data.
+  Hi, I'm <strong>Yangle Liu</strong>, a M.S. student in
+  <strong>ECE at CMU</strong>.
+  My research interests lie in <strong>Agentic AI, Large Language Models and Computer Vision</strong>.
 </p>
 
 <p>&emsp;&emsp;
@@ -60,7 +57,6 @@
 
 </td></tr>
 <tr><td>
-
 
 
 
